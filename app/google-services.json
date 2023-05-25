@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "479458891318",
+    "firebase_url": "https://chatap-69a2a-default-rtdb.firebaseio.com",
+    "project_id": "chatap-69a2a",
+    "storage_bucket": "chatap-69a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479458891318:android:356377491b5a2efe68ea97",
+        "android_client_info": {
+          "package_name": "com.example.chatap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479458891318-gi103gpp8mhr0qdfie7lmg55o8pk93n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatap",
+            "certificate_hash": "adb3142eb5d0b17992de31ba4b14894c7e687e78"
+          }
+        },
+        {
+          "client_id": "479458891318-srivpkkit3js6j82plne1fes65apdhdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jjXkIbe5IbESggAkgHgg_1GoQqk5gpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479458891318-d78bd4alc89vuo080n84nihg2ms5a69l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
