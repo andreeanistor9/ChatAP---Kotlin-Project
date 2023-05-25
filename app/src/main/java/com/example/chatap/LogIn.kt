@@ -77,7 +77,7 @@ class LogIn : AppCompatActivity() {
 
                 } else {
 
-                    Toast.makeText(this@LogIn, "Uset does not exist", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this@LogIn, "User does not exist", Toast.LENGTH_SHORT).show()
 
                 }
             }
